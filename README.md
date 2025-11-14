@@ -53,3 +53,4 @@ This implementation uses **FreeRTOS**, queues, tasks, and MQTT events for synchr
 * MQ6 readings not calibrated
 
 ![output](https://github.com/spnirmal/esp32s3-mqtt-gateway/blob/main/resource/image.png)
+here the GPS and MQ6 readings are stored in nvs and once MQTT reconnected resent again.
