@@ -52,3 +52,4 @@ This implementation uses **FreeRTOS**, queues, tasks, and MQTT events for synchr
 * Minimal GPS parsing
 * MQ6 readings not calibrated
 
+![output](https://github.com/spnirmal/esp32s3-mqtt-gateway/blob/main/resource/image.png)
